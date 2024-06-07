@@ -1,2 +1,2 @@
 # DyableConcrete
-A Minecraft datapack that lets you dye concrete powder and concrete the same way you can dye wool
+DyeableConcrete is a Minecraft datapack for versions 1.14-1.20.6 that lets you dye white concrete and white concrete powder the same way you dye white wool. To dye concrete or concrete powder, put white concrete or white concrete powder in the crafting grid with a dye.
