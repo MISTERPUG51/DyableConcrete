@@ -9,7 +9,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:cyan_concrete_powder",
+        "id": "minecraft:cyan_concrete_powder",
         "count": 1
     }
 }
