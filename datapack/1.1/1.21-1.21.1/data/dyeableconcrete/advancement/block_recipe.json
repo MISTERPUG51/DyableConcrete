@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:white_concrete"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "dyeableconcrete:red_block",
+      "dyeableconcrete:yellow_block",
+      "dyeableconcrete:purple_block",
+      "dyeableconcrete:pink_block",
+      "dyeableconcrete:magenta_block",
+      "dyeableconcrete:orange_block",
+      "dyeableconcrete:lime_block",
+      "dyeableconcrete:light_gray_block",
+      "dyeableconcrete:green_block",
+      "dyeableconcrete:light_blue_block",
+      "dyeableconcrete:gray_block",
+      "dyeableconcrete:cyan_block",
+      "dyeableconcrete:blue_block",
+      "dyeableconcrete:brown_block",
+      "dyeableconcrete:black_block"
+    ]
+  }
+}

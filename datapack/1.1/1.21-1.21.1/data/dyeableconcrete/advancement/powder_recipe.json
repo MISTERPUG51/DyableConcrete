@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:white_concrete_powder"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "dyeableconcrete:red_powder",
+      "dyeableconcrete:yellow_powder",
+      "dyeableconcrete:purple_powder",
+      "dyeableconcrete:pink_powder",
+      "dyeableconcrete:magenta_powder",
+      "dyeableconcrete:orange_powder",
+      "dyeableconcrete:lime_powder",
+      "dyeableconcrete:light_gray_powder",
+      "dyeableconcrete:green_powder",
+      "dyeableconcrete:light_blue_powder",
+      "dyeableconcrete:gray_powder",
+      "dyeableconcrete:cyan_powder",
+      "dyeableconcrete:blue_powder",
+      "dyeableconcrete:brown_powder",
+      "dyeableconcrete:black_powder"
+    ]
+  }
+}
