@@ -1,4 +1,4 @@
-# DyableConcrete
+# DyeableConcrete
 [DyeableConcrete on PlanetMinecraft](https://www.planetminecraft.com/data-pack/dyeableconcrete/)
 <br>
 [DyeableConcrete on Modrinth](https://modrinth.com/datapack/dyeableconcrete)
