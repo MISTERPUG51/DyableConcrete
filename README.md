@@ -8,4 +8,4 @@ DyeableConcrete is a Minecraft datapack for versions 1.14-1.21.1 that lets you d
 <br>
 <br>
 <br>
-![Crafting recipes](screenshots/crafting.gif)
+![Crafting recipes](https://raw.githubusercontent.com/MISTERPUG51/DyableConcrete/main/screenshots/crafting.gif)
